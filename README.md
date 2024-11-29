@@ -1,4 +1,3 @@
-#  This is my Local Repo.
 ![logo](https://github.com/richayadav11/richayadav11/blob/main/Blue%20and%20Purple%20Social%20Media%20Specialist%20LinkedIn%20Article%20Cover%20Image.jpg))
 <h1 align="center">Hi 👋, I'm Richa Yadav</h1>
 <h3 align="center">🚀 Frontend Developer | 🌐 Database Management | 💻 B.Tech CSE Student</h3>
