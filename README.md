@@ -1,11 +1,11 @@
 #  This is my Local Repo.
-![logo]()
+![logo](search-ms:displayname=Search%20Results%20in%20Documents&crumb=System.Generic.String%3Ablue&crumb=location:C%3A%5CUsers%5CRicha%20Yadav%5COneDrive%5CDocuments)
 <h1 align="center">Hi 👋, I'm Richa Yadav</h1>
 <h3 align="center">🚀 Frontend Developer | 🌐 Database Management | 💻 B.Tech CSE Student</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi0001&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi0001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi0001&label=Profile%20views&color=0e75b6&style=flat" alt="richayadav11" /> </p>
 
 - 🌐 Proficient in *HTML/CSS, JavaScript, C, C++, Python and MySQL.*
 
